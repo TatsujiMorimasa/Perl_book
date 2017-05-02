@@ -4,8 +4,8 @@ use warnings;
 
 my %keyword = (
 	'----'		=>	'<hr>',
-	'-mail'		=>	'<a href="mailto:hyuki@hyuki.com">hyuki.com</a>',
-	'-home'		=>	'<a href="http://www.hyuki.com/">http://www.hyuki.com/</a>',
+	'-mail'		=>	'<a href="mailto:seno@hoge.com">hoge.com</a>',
+	'-home'		=>	'<a href="http://www.seno.com/">http://www.seno.com/</a>',
 	'-notice'	=>	'リンクはご自由に。フィードバックはお気軽に。',
 );
 
